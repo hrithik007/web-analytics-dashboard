@@ -1,5 +1,11 @@
 # Web Analytics Dashboard
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](https://raw.githubusercontent.com/hrithik007/web-analytics-dashboard/main/Frontend/public/dashboard.png)
+
+
+
 A simple full-stack web analytics tool that collects and visualizes website traffic data in real-time. This project uses **Flask** for the backend, **MySQL** for data storage, and **React.js + Redux** for the frontend interface.
 
 ---
