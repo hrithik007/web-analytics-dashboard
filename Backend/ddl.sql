@@ -1,0 +1,8 @@
+CREATE DATABASE IF NOT EXISTS webanalytics;
+USE webanalytics;
+
+CREATE TABLE IF NOT EXISTS traffic (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    ip VARCHAR(45),
+    timestamp DATETIME
+);
